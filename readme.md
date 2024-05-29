@@ -2,7 +2,7 @@
 このプロジェクトには、ポートフォリオウェブサイトのHTMLとCSSファイルが含まれています。
 
 ## プロジェクト構成
-- `portfolio.html`: ウェブページの構造を含むメインのHTMLファイル。
+- `portfolio_hang.html`: ウェブページの構造を含むメインのHTMLファイル。
 - `css/style_hang.css`: ウェブページのスタイリング用CSSファイル。
 
 ## 特徴
@@ -13,13 +13,13 @@
 
 1. リポジトリをローカルマシンにクローンします：
     ```sh
-    git clone https://github.com/satstnka/portfolio.git
+    git clone https://github.com/Hanneko317/portfolio.git
 
     ```
-2. `portfolio.html` をお好みのウェブブラウザで開いてウェブサイトを表示します。
+2. `portfolio_hang.html` をお好みのウェブブラウザで開いてウェブサイトを表示します。
 ## 使用方法
-- ウェブサイトの内容を変更するには、`portfolio.html` ファイルを編集してください。
-- スタイルを変更するには、`style.css` ファイルを編集してください。
+- ウェブサイトの内容を変更するには、`portfolio_hang.html` ファイルを編集してください。
+- スタイルを変更するには、`style_hang.css` ファイルを編集してください。
 
 ## 貢献
 このプロジェクトに貢献したい場合は、以下の手順に従ってください：
